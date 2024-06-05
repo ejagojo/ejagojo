@@ -14,7 +14,7 @@ Hey there! I’m Eljohn, but most of my friends call me Ej, a senior at the Univ
 
 Currently, I’m working on an exciting project called **KyMo**, a social networking platform aimed at bringing individuals and teams closer together. The future looks bright, and I can’t wait to see where this journey takes us!
 
-When I’m not coding or lifting, you can find me gaming, playing basketball, or just enjoying life. I like to keep things laid-back and modern—think skibidi, not dad jokes.
+When I’m not coding or lifting, you can find me gaming, playing basketball, or just enjoying life.
 
 Feel free to reach out if you want to connect or collaborate. Let's build something amazing together!
 
