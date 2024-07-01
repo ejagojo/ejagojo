@@ -18,4 +18,4 @@ When I’m not coding or lifting, you can find me gaming, playing basketball, or
 
 Feel free to reach out if you want to connect or collaborate. Let's build something amazing together!
 
-😄 Stay awesome!
+😄!
