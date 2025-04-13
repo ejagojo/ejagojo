@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ejagojo" alt="ejagojo" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ej-agojo.vercel.app/](https://ej-agojo.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://ejagojoportfolio-2025.vercel.app/)
 
 - 💬 Ask me about **nothing**
 
